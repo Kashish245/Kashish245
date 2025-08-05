@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Kashish Nagar 👋</h1>
+<h1 align="center">Hi, I'm Kashish Nagar 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=GenAI+Engineer+%7C+ML+Researcher+%7C+MLOps+Specialist;Turning+Data+into+Impactful+AI+Solutions;Open+Source+%E2%9D%A4+%7C+Deploying+Dreams+%E2%9C%A8" alt="Typing SVG" />
 </p>
