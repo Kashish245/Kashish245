@@ -54,8 +54,7 @@
 
 ### 🏆 Achievements
 
-- 🥇 **Qualified IIT JAM 2024** – AIR **1291** in Mathematics  
-- 📜 RSCIT Certification – Rajasthan Govt. Digital Literacy Program  
+- 🥇 **Qualified IIT JAM 2024**    
 - 🎤 Delivered lecture on **Deep Learning & Neural Networks**  
 
 ---
